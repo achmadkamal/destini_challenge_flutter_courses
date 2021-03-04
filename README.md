@@ -1,6 +1,6 @@
 
 # Destini App
-My journey flutter study at [London App Brewery](https://www.appbrewery.co/)
+My journey Flutter & Dart study at [London App Brewery](https://www.appbrewery.co/)
 
 ## About Module
 
